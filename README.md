@@ -1,6 +1,5 @@
 # Module-6-Challenge
-Module 6 Challenge for RICE FinTech Assignment
-*-------------------------------------------------------*
+##
 This assignment focuses on visualization and analysis using PyViz. 
 The purpose of this challenge is to evalute the real estate market for San Francisco.  With the several CSV files are asked to read the files
 and create dataframes.  These dataframes are then used to design visual charts and maps using hvplot.  
